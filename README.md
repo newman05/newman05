@@ -40,7 +40,7 @@ Welcome to my GitHub, stranger! I'm Naman Surana, a curious sophomore exploring 
 
 **Current areas of focus:**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,css,c,js,react,nodejs,html,tailwind,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,css,c,js,nodejs,html,)](https://skillicons.dev)
 
 Many more to be added in the future ! 😉
 <br>
