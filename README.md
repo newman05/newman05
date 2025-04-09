@@ -7,45 +7,6 @@
 Welcome to my GitHub, stranger! I'm Naman Surana, a curious sophomore exploring innovative ideas and staying updated with the latest tech.
 
 
-**My interests and goals:** 
-
-- I enjoy speedcubing in my free time. Lmk if you are sub-15 😶‍🌫️
-- Passionate about open-source, I aim to contribute with my skills and insight.
-- Dedicated to practicing Data Structures and Algorithms through problem-solving on platforms like Leetcode, Codeforces, and CodeChef.
-- Into DHH and F1.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 
 **Current areas of focus:**
