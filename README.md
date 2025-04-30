@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=newman05&color=green)
 
-Welcome to my GitHub, stranger! I'm Naman Surana, a curious sophomore exploring innovative ideas and staying updated with the latest tech.
+Welcome to my GitHub, stranger! I'm Naman Surana, a 3rd year student exploring innovative ideas and staying updated with the latest tech.
 
 
 <br>
