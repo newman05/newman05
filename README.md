@@ -11,7 +11,7 @@ Welcome to my GitHub, stranger! I'm Naman Surana, a 3rd year student exploring i
 
 **Current areas of focus:**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,css,c,js,nodejs,html,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,tailwind,mongodb,react,cpp,c)](https://skillicons.dev)
 
 Many more to be added in the future ! 😉
 <br>
